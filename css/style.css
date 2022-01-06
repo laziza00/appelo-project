@@ -270,6 +270,12 @@ body {
   margin: 0 auto;
   padding: 15px 50px;
 }
+
+
+
+.relation-inner{
+  padding-top: 149px;
+}
 .relation-text{
   margin-bottom: 70px;
 }
